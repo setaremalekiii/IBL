@@ -1,0 +1,9 @@
+Samples: 95260
+Duration: 599.994 s
+Sample rate:158.8 Hz
+Dominant X-axis frequency: 27.85 Hz
+Dominant Y-axis frequency: 26.75 Hz
+Dominant Z-axis frequency: 26.75 Hz
+average acceleration in the x-direction 1.1065359864321462
+average acceleration in the y-direction -0.05047451994007534
+average acceleration in the z-direction 9.600753413710544
